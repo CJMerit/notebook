@@ -23,6 +23,6 @@ No install needed
 Visit this web address to see the github deployed page for the repo https://cjmerit.github.io/notebook/
 
 This is an image of the deployed website:
-![Notebook](./Develop/images/notebook.png)
+![Notebook](./images/notebook.png)
 
 Using chrome as the browser for the web page, right click on it and click inspect to use Chrome DevTools to inspect the HTML and CSS.
