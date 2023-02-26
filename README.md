@@ -1,9 +1,9 @@
 # Note Taker Starter Code
 
 ## Badges 
-![Github Repo Size](https://img.shields.io/github/repo-size/hadscloud/fresh-tomatoes?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/hadscloud/fresh-tomatoes?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/hadscloud/fresh-tomatoes?style=social)
+![Github Repo Size](https://img.shields.io/github/repo-size/CJMerit/notebook?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/CJMerit/notebook?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/CJMerit/notebook?style=social)
 
 ## Description
 Use this to save notes for your future self! Useful for the generally forgetful people.
